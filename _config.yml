@@ -7,19 +7,19 @@ name: Zijin(Jean) Zhang
 title: Doctoral Student
 email: zijinz@umich.edu
 phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+website: http://ndloin.github.io
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-facebook_username: jekyll
+twitter_username: Jean Zhang
+github_username:  ndloin
+facebook_username: Jean Zhang
 instagram_username: ndloin
 linkedin_username: jekyll
 youtube_username: jekyll
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: pic.jpg
+about_profile_image: "pic.jpg"
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 

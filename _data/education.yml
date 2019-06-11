@@ -3,7 +3,7 @@
   name: University of Michigan, Ann Arbor
   dates: 2019 - Now
   qualification: Ph.D Student
-  quote: >
-    Short institution or course description (optional)
+  #quote: >
+   # Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
     Description of qualification

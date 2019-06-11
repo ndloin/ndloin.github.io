@@ -1,8 +1,8 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: University of Michigan, Ann Arbor
+  dates: 2019 - Now
+  qualification: Ph.D Student
   quote: >
     Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
